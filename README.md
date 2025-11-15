@@ -24,6 +24,8 @@ It demonstrates the use of the Template Method and Command design patterns to cr
   - MachineLearningPrediction – uses historical and real-time data
  
     
+ 
+    
 
 - Modular & Reusable Tasks: Commands can be reused across prediction strategies, making it easy to extend or modify.
 
